@@ -1,0 +1,18 @@
+LE Paradigmen (Funktional II)
+Entwickeln sie ein kleines Programm / Spiel ggf. analog zur CCD Aufgabe in Clojure oder einer anderen funktionalen Sprache! Portierungen des CCD Spieles sind dabei besonders erwünscht. Bitte dabei keine goldenen Wasserhähne wie GUI etc.
+
+Versuchen sie das Programm komplett Zustandslos (ggf. nur mit finals = let bindings) zu schreiben (je nach Sprache).
+
+Es geht hier nicht darum, eine Sprache komplett zu lernen, sondern ein paar Grundkonzepte wie Zustandslosigkeit oder Higher-Order Functions zu erfahren! Beschränken sie sich daher in der Funktionalität, um dies nicht ausufern zu lassen.
+
+Da die Aufgabe dennoch schwer ist, gibt es 
+
+a) mehr Zeit
+b) Fragen im Forum sind ausdrücklich motiviert
+c) Fragen persönlich an mich via edlich@gmail.com sind auch sehr erwünscht
+
+Und ideal wäre, wenn sie einfach nur eine spiel.clj Datei hochladen!!
+
+Viel Spaß!
+
+P.S.: Extrem hilfreich ist diese Ressource: http://clojure.org/cheatsheet
